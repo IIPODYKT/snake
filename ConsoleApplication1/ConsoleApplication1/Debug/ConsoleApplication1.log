@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\project\snake\consoleapplication1\consoleapplication1\source.cpp(9): error C2065: cout: необъявленный идентификатор
+d:\project\snake\consoleapplication1\consoleapplication1\source.cpp(10): warning C4551: в вызове функции отсутствует список аргументов
